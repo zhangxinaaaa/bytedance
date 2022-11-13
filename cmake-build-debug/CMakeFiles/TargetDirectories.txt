@@ -1,0 +1,3 @@
+/Users/zhangxin/Code/cpp/bytedance/cmake-build-debug/CMakeFiles/bytedance.dir
+/Users/zhangxin/Code/cpp/bytedance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangxin/Code/cpp/bytedance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(bytedance)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(bytedance main.cpp bit/快速幂.cpp backtrace/permuate.cpp list/k个一组翻转链表.cpp array/二分.cpp stack/接雨水.cpp array/顺时针遍历矩阵.cpp array/最大子数组连续和.cpp dp/最长回文字串.cpp array/下一个排列.cpp dp/最长上升子序列.cpp stack/括号匹配.cpp list/重排链表.cpp array/第一个缺失的正数.cpp tree/二叉树最大路径和.cpp list/链表是否有环.cpp list/区间翻转链表.cpp list/链表排序.cpp list/list.h array/合并区间.cpp backtrace/括号生成.cpp dp/最大正方形.cpp dp/编辑距离.cpp tree/前序中序构建二叉树.cpp tree/tree.h array/三数之和.cpp array/搜索旋转排序数组.cpp string/比较版本号.cpp dp/最长有效括号.cpp array/寻找两个正序数组的中位数.cpp string/最小覆盖子串.cpp list/删除链表中重复元素.cpp tree/权值路径查找.cpp stack/用栈实现队列.cpp dp/爬楼梯.cpp dp/高楼扔鸡蛋.cpp dp/背包.cpp backtrace/组合问题.cpp backtrace/排列问题.cpp backtrace/子集问题.cpp backtrace/复原ip地址.cpp array/长度最小子数组.cpp dp/股票问题.cpp array/滑动窗口最大值.cpp list/排序奇偶升降链表.cpp list/奇偶链表.cpp array/搜索二维矩阵.cpp dp/最长公共子序列.cpp string/最长不重复子串.cpp tree/二叉树最大宽度.cpp bit/随机数生成.cpp backtrace/单词搜索.cpp array/盛水最多的容器.cpp list/删除链表倒数第N个节点.cpp array/array.h array/冒泡排序.cpp array/快速排序.cpp array/算术平方根.cpp array/峰值元素.cpp array/寻找第K大的数.cpp list/链表相加.cpp list/复杂链表的复制.cpp list/两数相加.cpp string/字符串转整数.cpp list/LRU.cpp tree/最近公共祖先.cpp tree/二叉树转为搜索树.cpp dp/零钱兑换.cpp dp/目标和.cpp dp/最后一块石头的重量.cpp dp/分割等和子集.cpp tree/恢复二叉搜索树.cpp backtrace/N皇后.cpp tree/二叉树最小深度.cpp tree/有序链表转二叉搜索树.cpp list/合并排序链表.cpp wys.cpp zqx.cpp)
