@@ -45,3 +45,6 @@ bool hasCycle(struct ListNode *head) {
     return false; // 说明没有环
 }
 
+int main() {
+	cout << "Hello world" << endl;
+}
