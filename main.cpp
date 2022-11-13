@@ -45,11 +45,6 @@ bool hasCycle(struct ListNode *head) {
     return false; // 说明没有环
 }
 
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
+int main() {
+	cout << "Hello world" << endl;
+}
